@@ -1,0 +1,1 @@
+node is a javascript runtime environment built on google open source v8 engine that is used to build scalable application
